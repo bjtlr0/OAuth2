@@ -33,3 +33,5 @@ build/
 .vscode/
 
 application-oauth.properties
+/private.ppk
+/public_.ppk
