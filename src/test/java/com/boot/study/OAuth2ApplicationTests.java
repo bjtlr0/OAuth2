@@ -2,12 +2,14 @@ package com.boot.study;
 
 import org.junit.Test;
 import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.TestPropertySource;
 
 @SpringBootTest
-class OAuth2ApplicationTests {
-
+@TestPropertySource(locations="classpath:application-test.properties")
+public class OAuth2ApplicationTests {
+	
 	@Test
-	void contextLoads() {
+	public void contextLoads() {
 	}
 
 }
