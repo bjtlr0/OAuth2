@@ -3,8 +3,8 @@
 Springboot webservice example
 
 ## Maven repository Dependencies list
-spring-boot-starter-security(managed : 2.1.4 RELEASE)
-spring-boot-starter-test(managed : 2.1.4 RELEASE)
+'spring-boot-starter-security(managed : 2.1.4 RELEASE)
+'spring-boot-starter-test(managed : 2.1.4 RELEASE)
 spring-boot-starter-data-jpa:2.0.3.RELEASE (managed : 2.1.4 RELEASE)
 spring-boot-starter-oauth2-client (managed : 2.1.4 RELEASE)
 spring-boot-starter-web (managed : 2.1.4 RELEASE)
